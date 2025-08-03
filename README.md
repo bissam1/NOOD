@@ -1,38 +1,11 @@
-# NOOD INTERNATIONAL PROPERTIES – Cinematic Real Estate Landing
+# NOOD International Properties
 
-A luxury, cinematic, animated real estate landing and country page experience for NOOD INTERNATIONAL PROPERTIES.
+This project is a cinematic global real estate platform built with React, Vite, TailwindCSS and Framer Motion.
 
-## Features
+## Available Scripts
 
-- 4K video backgrounds, parallax, and glassmorphism
-- 3D spinning NOOD logo centerpiece
-- Framer Motion-powered animations and transitions
-- Custom animated cursor
-- Responsive, multilingual (EN, AR, UR, RU)
-- Country landing pages with unique video, theme, and language
-- Floating tools: Mortgage, ROI, Visa, AED converter
-- Office locations, contact, and comparison sections
+- `npm run dev` - start a development server
+- `npm run build` - build for production
+- `npm run preview` - preview the production build
 
-## Stack
-
-- React (TSX)
-- Tailwind CSS
-- Framer Motion
-- lucide-react icons
-
-## Local Development
-
-```sh
-npm install
-npm run dev
-```
-
-## Deployment
-
-- Push to GitHub
-- Connect to Vercel and link your custom domain
-
-## Customization
-
-- Update office locations and country videos in `components/`
-- Edit theme tokens in `styles/globals.css`
+Placeholder assets are located in `public/assets`. Replace the video and logo files with real media for production use.
